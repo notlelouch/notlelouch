@@ -56,7 +56,5 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notlelouch&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 </div>
 
-<img src="https://myreadme.vercel.app/api/embed/notlelouch?panels=toprepositories,commitgraph" alt="reimaginedreadme" />
-
-<img src="https://myreadme.vercel.app/api/embed/notlelouch?panels=toprepositories,commitgraph" alt="reimaginedreadme" style="display: block; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08); width: auto; max-width: 100%; height: auto;">
+<img src="https://myreadme.vercel.app/api/embed/notlelouch?panels=commitgraph" alt="reimaginedreadme" />
 
