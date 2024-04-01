@@ -57,4 +57,5 @@
 </div>
 
 <img src="https://myreadme.vercel.app/api/embed/notlelouch?panels=commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/notlelouch?panels=commitgraph" alt="reimaginedreadme" style="filter: invert(1) hue-rotate(180deg); mix-blend-mode: screen; color: blue;" />
 
