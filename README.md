@@ -60,36 +60,8 @@
 <hr/>
  -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notlelouch&label=Profile%20views&color=0e75b6&style=flat" alt="notlelouch" /> </p>
 
-<p align="left"> <a href="https://twitter.com/notlelouchvb" target="blank"><img src="https://img.shields.io/twitter/follow/notlelouchvb?logo=twitter&style=for-the-badge" alt="notlelouchvb" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -100,7 +72,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notlelouch&show_icons=true&locale=en" alt="notlelouch" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notlelouch&" alt="notlelouch" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notlelouch&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/></p>
 
 
 
