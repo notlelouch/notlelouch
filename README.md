@@ -51,12 +51,56 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=notlelouch&label=Profile%20views&color=0e75b6&style=flat" alt="notlelouch" /> </p>
+
+<p align="left"> <a href="https://twitter.com/notlelouchvb" target="blank"><img src="https://img.shields.io/twitter/follow/notlelouchvb?logo=twitter&style=for-the-badge" alt="notlelouchvb" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/notlelouchvb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notlelouchvb" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=notlelouch&show_icons=true&locale=en&layout=compact" alt="notlelouch" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notlelouch&show_icons=true&locale=en" alt="notlelouch" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notlelouch&" alt="notlelouch" /></p>
+
 
 
