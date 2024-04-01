@@ -56,4 +56,4 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notlelouch&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 </div>
 
-<img src="https://myreadme.vercel.app/api/embed/notlelouch?panels=userstatistics,toprepositories,toplanguages,commitgraphayout=compact" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/notlelouch?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
