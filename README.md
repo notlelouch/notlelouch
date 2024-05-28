@@ -33,12 +33,12 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=css,bootstrap,html,react,vscode,github,git,gitlab,figma,tailwind,netlify,npm,anaconda,bash,arch,linux,apple,matlab,docker,ipfs,nodejs,python,javascript,typescript,express,mongodb,redis,nextjs,mysql,postman,replit,yarn,aws,solidity" style="display: inline-block"/>
 </div>
 <hr>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center"> Stats </h2>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=notlelouch&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=notlelouch&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
