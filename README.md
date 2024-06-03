@@ -50,3 +50,15 @@
 ![notlelouch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=notlelouch&theme=gotham&hide_border=false)
 ![notlelouch's Stats](https://github-readme-stats.vercel.app/api?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 ![notlelouch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&layout=compact)
+
+
+
+<hr>
+<h2 align="center"> Stats </h2>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=notlelouch&theme=gotham&hide_border=false" alt="streak stats"/>    
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
+</div>
+</hr>
