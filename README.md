@@ -36,6 +36,15 @@
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=css,bootstrap,html,react,vscode,github,git,gitlab,figma,tailwind,netlify,npm,anaconda,bash,arch,linux,apple,matlab,docker,ipfs,nodejs,python,javascript,typescript,express,mongodb,redis,nextjs,mysql,postman,replit,yarn,aws,solidity,wagmi,rainbowkit,viem,hardhat,foundry,metamask" style="display: inline-block"/>
+<hr>
+<h2 align="center"> Stats </h2>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=notlelouch&theme=gotham&hide_border=false" alt="streak stats"/>    
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
+</div>
+</hr>
 <!-- </div>
 <hr>
 <h2 align="center"> Stats </h2>
@@ -52,12 +61,4 @@
 ![notlelouch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 -->
-<hr>
-<h2 align="center"> Stats </h2>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=notlelouch&theme=gotham&hide_border=false" alt="streak stats"/>    
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
-</div>
-</hr>
+
