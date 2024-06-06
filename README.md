@@ -57,7 +57,7 @@
 </hr>
 
 ![notlelouch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=notlelouch&theme=gotham&hide_border=false)
-![notlelouch's Stats](https://github-readme-stats.vercel.app/api?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+![notlelouch's Stats](https://github-readme-stats.vercel.app/api?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&count_private=false)
 ![notlelouch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 -->
