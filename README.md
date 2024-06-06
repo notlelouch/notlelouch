@@ -55,11 +55,11 @@
   <img width=325 align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=notlelouch&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 </hr>
-
+    
+![notlelouch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&layout=compact&hide=jupyter%20notebook)
 ![notlelouch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=notlelouch&theme=gotham&hide_border=false)
 ![notlelouch's Stats](https://github-readme-stats.vercel.app/api?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 ![notlelouch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&layout=compact)
-![notlelouch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notlelouch&theme=gotham&show_icons=true&hide_border=false&layout=compact&hide=jupyter%20notebook)
 
 -->
 
