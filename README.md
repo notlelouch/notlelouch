@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **smart contracts**
  
- 🌱 I’m currently learning **foundry, Starknet/cairo**
+ 🌱 I’m currently learning **Go**
 
 💬 We can chat about **Full-Stack, BlockChain...or anything [here](https://github.com/notlelouch/notlelouch/issues)**
 
