@@ -35,7 +35,7 @@
  
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=css,bootstrap,html,react,vscode,github,git,gitlab,figma,tailwind,netlify,npm,anaconda,bash,arch,linux,apple,matlab,docker,ipfs,nodejs,python,javascript,typescript,express,mongodb,redis,nextjs,mysql,postman,replit,yarn,aws,solidity,wagmi,rainbowkit,viem,hardhat,foundry,metamask,go" style="display: inline-block"/>
+    <img src="https://skillicons.dev/icons?i=css,bootstrap,html,react,vscode,github,git,gitlab,figma,tailwind,netlify,npm,anaconda,bash,arch,linux,apple,matlab,docker,ipfs,nodejs,python,javascript,typescript,express,mongodb,redis,nextjs,mysql,postman,replit,yarn,aws,solidity,wagmi,rainbowkit,viem,hardhat,foundry,metamask" style="display: inline-block"/>
 <hr>
 <h2 align="center"> Stats </h2>
 <div align=center>
