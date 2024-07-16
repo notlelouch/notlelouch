@@ -6,7 +6,8 @@
 
 <p>Blockchain developer with a strong focus on Ethereum and ZK technology. Currently pursuing B.Tech in Computer Science at IIIT Kota. Passionate about decentralized systems and open-source contributions.</p>
 
-<h2>Skills</h2>
+<strong>Skills</strong>
+<br>
 <ul>
   <li><strong>Languages:</strong> Go, Python, Solidity, TypeScript</li>
   <li><strong>Frameworks:</strong> Foundry, Hardhat, Node.js, React, Next.js</li>
@@ -14,7 +15,7 @@
   <li><strong>Tools:</strong> Docker, AWS</li>
 </ul>
 
-<h2>Projects</h2>
+<strong>Projects</strong>
 <ul>
   <li><a href="https://github.com/notlelouch/Morphex"><strong>Morphex:</strong></a> Decentralized exchange for ETH <> TOKEN swaps.</li>
   <li><a href="https://github.com/notlelouch/Obsidian"><strong>Obsidian:</strong></a> Indexer for a gambling contract.</li>
@@ -27,18 +28,18 @@
   <li><a href="https://github.com/notlelouch/mirage"><strong>Mirage:</strong></a> NFT collection with whitelisting.</li>
 </ul>
 
-<h2>Open Source Contributions</h2>
+<strong>Contributions</strong>
 <ul>
   <li><a href="https://github.com/mattermost/mattermost">Mattermost</a></li>
   <li><a href="https://github.com/cairo-book/cairo-book">Cairo Book</a></li>
 </ul>
 
-<h2>Research</h2>
+<strong>Research</strong>
 <ul>
   <li><a href="https://github.com/notlelouch/Robotic-Grasping-with-Instance-Segmentation">Robotic Grasping with Instance Segmentation:</a> ML model for grasping points under Dr. Amit Kumar.</li>
 </ul>
 
-<h2>Connect with Me</h2>
+<strong>Connect with Me</strong>
 <table>
   <tr>
     <td>
