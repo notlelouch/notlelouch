@@ -10,7 +10,7 @@
 <br>
 <ul>
   <li><strong>Languages:</strong> Go, Python, Solidity, TypeScript</li>
-  <li><strong>Frameworks:</strong> Foundry, Hardhat, Node.js, React, Next.js</li>
+  <li><strong>Frameworks:</strong> Foundry, Hardhat, Node.js, Express.js, Nest.js, React, Svelte, SvelteKit, Next.js</li>
   <li><strong>Blockchain:</strong> Ethereum, The Graph</li>
   <li><strong>Tools:</strong> Docker, AWS</li>
 </ul>
