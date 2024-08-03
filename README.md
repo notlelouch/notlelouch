@@ -25,7 +25,7 @@
   <li><a href="https://github.com/notlelouch/Shell24"><strong>Shell24:</strong></a> Custom POSIX-compliant shell for command execution and process management.</li>
   <li><a href="https://github.com/notlelouch/ScriptX"><strong>ScriptX:</strong></a> JavaScript blockchain implementation with wallet and transaction management.</li>
   <li><a href="https://github.com/notlelouch/baseGit"><strong>baseGit:</strong></a> Lightweight Git implementation in JavaScript with core Git functionalities.</li>
-  <li><a href="https://github.com/notlelouch/Py-Ser"><strong>Py-Ser:</strong></a> Simple HTTP server in Python for handling requests and serving static files.</li>
+<!--   <li><a href="https://github.com/notlelouch/Py-Ser"><strong>Py-Ser:</strong></a> Simple HTTP server in Python for handling requests and serving static files.</li> -->
   <li><a href="https://github.com/notlelouch/mirage"><strong>Mirage:</strong></a> NFT collection with whitelisting capabilities built using Foundry and Solidity.</li>
 </ul>
 
