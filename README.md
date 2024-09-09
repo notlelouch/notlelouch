@@ -22,10 +22,10 @@
   <li><a href="https://github.com/notlelouch/Capybara"><strong>Capybara:</strong></a> Ethereum DAO for collective NFT investments with on-chain governance.</li>
   <li><a href="https://github.com/notlelouch/Obsidian"><strong>Obsidian:</strong></a> Indexer for a gambling contract built with The Graph.</li>
   <li><a href="https://github.com/notlelouch/StarLoom"><strong>StarLoom:</strong></a> Platform for simplifying web application deployment.</li>
-  <li><a href="https://github.com/notlelouch/Shell24"><strong>Shell24:</strong></a> Custom POSIX-compliant shell for command execution and process management.</li>
+  <li><a href="https://github.com/notlelouch/Scarlet"><strong>Scarlet:</strong></a> Scarlet is a Redis server implementation in Go</li>
+    <li><a href="https://github.com/notlelouch/Shell24"><strong>Shell24:</strong></a> Custom POSIX-compliant shell for command execution and process management.</li>
   <li><a href="https://github.com/notlelouch/ScriptX"><strong>ScriptX:</strong></a> JavaScript blockchain implementation with wallet and transaction management.</li>
   <li><a href="https://github.com/notlelouch/baseGit"><strong>baseGit:</strong></a> Lightweight Git implementation in JavaScript with core Git functionalities.</li>
-<!--   <li><a href="https://github.com/notlelouch/Py-Ser"><strong>Py-Ser:</strong></a> Simple HTTP server in Python for handling requests and serving static files.</li> -->
   <li><a href="https://github.com/notlelouch/mirage"><strong>Mirage:</strong></a> NFT collection with whitelisting capabilities built using Foundry and Solidity.</li>
 </ul>
 
