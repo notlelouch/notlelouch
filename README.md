@@ -17,7 +17,7 @@
 
 <strong>Projects</strong>
 <ul>
-  <li><a href="https://github.com/notlelouch/Energy-Trading-MVP"><strong>Energy Trading MVP:</strong></a> Peer-to-peer energy trading platform on the Bitcoin SV blockchain.</li>
+  <li><a href="https://github.com/notlelouch/Energy-Trading-MVP"><strong>Energy Trading MVP:</strong></a> Secure, peer-to-peer energy trading platform on the Bitcoin SV blockchain.</li>
   <li><a href="https://github.com/notlelouch/Morphex"><strong>Morphex:</strong></a> Decentralized exchange for ETH and TOKEN swaps with a 1% fee.</li>
   <li><a href="https://github.com/notlelouch/Capybara"><strong>Capybara:</strong></a> Ethereum DAO for collective NFT investments with on-chain governance.</li>
   <li><a href="https://github.com/notlelouch/Obsidian"><strong>Obsidian:</strong></a> Indexer for a gambling contract built with The Graph.</li>
