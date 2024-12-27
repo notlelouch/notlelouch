@@ -19,7 +19,7 @@
 <ul>
   <li><a href="https://github.com/notlelouch/Energy-Trading-MVP"><strong>Energy Trading MVP:</strong></a> Secure, peer-to-peer energy trading platform on the Bitcoin SV blockchain.</li>
   <li><a href="https://github.com/notlelouch/Morphex"><strong>Morphex:</strong></a> Uniswap V1-inspired DEX with advanced slippage protection, seamlessly swapping ETH and custom tokens.    </li>
-  <li><a href="https://github.com/notlelouch/Distributed-Cache"><strong>Distributed Cache:</strong></a> High-performance, fault-tolerant distributed caching system with cluster management and RESTful API.</li>
+  <li><a href="https://github.com/notlelouch/Disperse"><strong>Disperse:</strong></a> High-performance, fault-tolerant distributed caching system with cluster management and RESTful API.</li>
   <li><a href="https://github.com/notlelouch/StarLoom"><strong>StarLoom:</strong></a> Platform for simplifying web application deployment.</li> 
   <li><a href="https://github.com/notlelouch/Scarlet"><strong>Scarlet:</strong></a> Scarlet is a Redis server implementation in Go</li>
   <li><a href="https://github.com/notlelouch/Capybara"><strong>Capybara:</strong></a> Ethereum DAO for collective NFT investments with on-chain governance.</li>
