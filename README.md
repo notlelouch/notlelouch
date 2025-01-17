@@ -33,6 +33,8 @@
 
 <strong>Contributions</strong>
 <ul>
+  <li><a href="https://github.com/celestiaorg/celestia-node">Celestia</a></li>
+  <li><a href="https://github.com/cosmos/iavl">cosmos</a></li>
   <li><a href="https://github.com/mattermost/mattermost">Mattermost</a></li>
   <li><a href="https://github.com/cairo-book/cairo-book">Cairo Book</a></li>
 </ul>
