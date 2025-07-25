@@ -6,14 +6,6 @@
 
 <p>Full-Stack Blockchain Developer working on Ethereum, Solana and Bitcoin Satoshi Vision(BSV). Passionate about decentralized and distributed systems, smart contracts and open-source contributions.</p>
 
-<strong>Skills</strong>
-<br>
-<ul>
-  <li><strong>Languages:</strong> Go, Python, TypeScript, Solidity, sCrypt</li>
-  <li><strong>Frameworks:</strong> Foundry, Hardhat, Node.js, Express.js, Nest.js, React, Svelte, SvelteKit, Next.js</li>
-  <li><strong>Blockchains:</strong> Ethereum, BSV</li>
-  <li><strong>Tools:</strong> Docker, AWS</li>
-</ul>
 
 <strong>Projects</strong>
 <ul>
@@ -23,12 +15,12 @@
   <li><a href="https://github.com/notlelouch/Morphex"><strong>Morphex:</strong></a> Uniswap V1-inspired DEX with advanced slippage protection, seamlessly swapping ETH and custom tokens.    </li>
   <li><a href="https://github.com/notlelouch/StarLoom"><strong>StarLoom:</strong></a> Platform for simplifying web application deployment.</li> 
   <li><a href="https://github.com/notlelouch/Scarlet"><strong>Scarlet:</strong></a> Scarlet is a Redis server implementation in Go</li>
-  <li><a href="https://github.com/notlelouch/Capybara"><strong>Capybara:</strong></a> Ethereum DAO for collective NFT investments with on-chain governance.</li>
+  <li><a href="https://github.com/notlelouch/Capybara"><strong>Capybara:</strong></a> Ethereum DAO for collective NFT investments with on-chain governance.</li>                           
   <li><a href="https://github.com/notlelouch/Obsidian"><strong>Obsidian:</strong></a> Indexer for a gambling contract built with The Graph.</li>
   <li><a href="https://github.com/notlelouch/Shell24"><strong>Shell24:</strong></a> Custom POSIX-compliant shell for command execution and process management.</li>
-  <li><a href="https://github.com/notlelouch/ScriptX"><strong>ScriptX:</strong></a> JavaScript blockchain implementation with wallet and transaction management.</li>
-  <li><a href="https://github.com/notlelouch/baseGit"><strong>baseGit:</strong></a> Lightweight Git implementation in JavaScript with core Git functionalities.</li>
-  <li><a href="https://github.com/notlelouch/mirage"><strong>Mirage:</strong></a> NFT collection with whitelisting capabilities built using Foundry and Solidity.</li>
+<!--   <li><a href="https://github.com/notlelouch/ScriptX"><strong>ScriptX:</strong></a> JavaScript blockchain implementation with wallet and transaction management.</li> -->
+<!--   <li><a href="https://github.com/notlelouch/baseGit"><strong>baseGit:</strong></a> Lightweight Git implementation in JavaScript with core Git functionalities.</li> -->
+<!--   <li><a href="https://github.com/notlelouch/mirage"><strong>Mirage:</strong></a> NFT collection with whitelisting capabilities built using Foundry and Solidity.</li> -->
 </ul>
 
 <strong>Contributions</strong>
