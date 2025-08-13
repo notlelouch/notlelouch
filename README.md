@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Yo,+it's+Aryan!;+Code+so+good,+it's+criminal" />
 </h1>
 
-<p>Full-Stack Blockchain Developer working on Ethereum, Solana and Bitcoin Satoshi Vision(BSV). Passionate about decentralized and distributed systems, smart contracts and open-source contributions .</p>
+<p>Full-Stack Blockchain Developer working on Ethereum, Solana and Bitcoin Satoshi Vision(BSV). Passionate about decentralized and distributed systems, smart contracts and open-source contributions.</p>
 
 
 <strong>Projects</strong>
