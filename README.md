@@ -10,6 +10,8 @@
 <strong>Projects</strong>
 <ul>
   <li><a href="https://github.com/notlelouch/ArbiBot"><strong>ArbiBot:</strong></a> A cross-exchange arbitrage bot using WebSocket for real-time crypto price discrepancies.</li>
+  <li><a href="https://github.com/notlelouch/yesno.wtf"><strong>yesno.wtf:</strong></a> A Solana-native protocol that transforms belief into a market signal through continuous, on-chain pricing.</li>  
+  <li><a href="https://github.com/notlelouch/Linq"><strong>Linq:</strong></a> MPC-powered Solana wallet backend for secure, keyless swaps and transfers.</li>
   <li><a href="https://github.com/notlelouch/Energy-Trading-MVP"><strong>Energy Trading MVP:</strong></a> Secure, peer-to-peer energy trading platform on the Bitcoin SV blockchain.</li>
   <li><a href="https://github.com/notlelouch/Disperse"><strong>Disperse:</strong></a> High-performance, fault-tolerant distributed data platform with cluster management and RESTful API.</li>
   <li><a href="https://github.com/notlelouch/Morphex"><strong>Morphex:</strong></a> Uniswap V1-inspired DEX with advanced slippage protection, seamlessly swapping ETH and custom tokens.    </li>
