@@ -33,10 +33,10 @@
   <li><a href="https://github.com/cairo-book/cairo-book">Cairo Book</a></li>
 </ul>
 
-<strong>Research</strong>
+<!-- <strong>Research</strong>
 <ul>
   <li><a href="https://github.com/notlelouch/Robotic-Grasping-with-Instance-Segmentation">Robotic Grasping with Instance Segmentation:</a> ML model for grasping points under Dr. Amit Kumar.</li>
-</ul>
+</ul> -->
 
 <strong>Connect with Me</strong>
 <table>
