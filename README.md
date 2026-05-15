@@ -1,3 +1,32 @@
+# Aryan Pandey
+
+Systems and infra engineer. Working close to the metal —
+exchange infrastructure, low-latency networking, distributed systems.
+
+Go · Rust · Python
+
+Currently @ Mudrex building exchange infrastructure.
+
+---
+
+## Things I've built
+
+- **[ZERO](https://github.com/notlelouch/ZERO)** — Kernel bypass 
+  network stack. 99.4% latency reduction vs standard sockets on 
+  real hardware.
+- **[ArbiBot](https://github.com/notlelouch/ArbiBot)** — 
+  Cross-exchange arbitrage bot. 100k+ calc/sec at sub-5ms p99.
+- **[Disperse](https://github.com/notlelouch/Disperse)** — 
+  Fault-tolerant distributed data platform.
+- **[Linq](https://github.com/notlelouch/Linq)** — Non-custodial 
+  wallet with MPC/TSS threshold signing.
+
+---
+
+[twitter](https://twitter.com/notlelouchvb) · notlelouchvb@gmail.com
+
+<!-- 
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=notlelouch.notlelouch" />
 
 <h1 align="center">
@@ -25,19 +54,22 @@
 <!--   <li><a href="https://github.com/notlelouch/mirage"><strong>Mirage:</strong></a> NFT collection with whitelisting capabilities built using Foundry and Solidity.</li> -->
 </ul>
 
+<!--
 <strong>Contributions</strong>
 <ul>
   <li><a href="https://github.com/celestiaorg/celestia-node">Celestia</a></li>
   <li><a href="https://github.com/cosmos/iavl">cosmos</a></li>
   <li><a href="https://github.com/mattermost/mattermost">Mattermost</a></li>
   <li><a href="https://github.com/cairo-book/cairo-book">Cairo Book</a></li>
-</ul>
+</ul>  -->
+
 
 <!-- <strong>Research</strong>
 <ul>
   <li><a href="https://github.com/notlelouch/Robotic-Grasping-with-Instance-Segmentation">Robotic Grasping with Instance Segmentation:</a> ML model for grasping points under Dr. Amit Kumar.</li>
 </ul> -->
 
+<!-- 
 <strong>Connect with Me</strong>
 <table>
   <tr>
@@ -55,7 +87,7 @@
     </td>
   </tr>
 </table>
-
+-->
 
 
 
